@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class BigliettoTreno {
     public static void main(String[] args) {
+        // dichiaro lo scanner
         Scanner scanner = new Scanner(System.in);
 
         // chiedo all'utente quanti km vuole fare
